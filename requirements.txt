@@ -1,0 +1,6 @@
+PyQt6
+pyaudio
+vosk
+gtts
+pygame
+translate
